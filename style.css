@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body h1 {
+    text-align: center;
+    color: greenyellow;
+
+    border-style: solid;
+    border-color: purple;
+    background-color: purple;
+}
+
+#bulbasaur_container{
+    border-style: solid;
+    border-color: white;
+    border-radius: 15px;
+    
+
+    background-color: lightgreen;
+}
+
+#charmander_container{
+    border-style: solid;
+    border-color: white;
+    border-radius: 15px;
+
+    background-color: orange;
+}
+
+#squirtle_container{
+    border-style: solid;
+    border-color: white;
+    border-radius: 15px;
+
+    background-color: purple;
+}
+
+#starters_image_div {
+    text-align: center;
+}
+
+#starters_image_div img{
+    border-style: solid;
+    border-color: purple;
+    border-width: 10px;
+}
